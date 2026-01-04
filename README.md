@@ -2,7 +2,7 @@
 
 # 💻 Environment
 
-![Windows](https://img.shields.io/badge/Windows%2011%20Pro%20Worksation%20InsidePreview-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows%2011%20Pro%20Beta-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![WSL2](https://img.shields.io/badge/WSL2%20Ubuntu%2024%2e04%2e3%20LTS-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android Baklava 16](https://img.shields.io/badge/Android%20Baklava%2016-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
