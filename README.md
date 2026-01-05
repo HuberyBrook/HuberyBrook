@@ -14,7 +14,6 @@
 ![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Pad 5 Pro 12.4](https://img.shields.io/badge/Xiaomi%20Pad%205%20Pro%2012.4%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Pad 6 Max 14](https://img.shields.io/badge/Xiaomi%20Pad%206%20Max%2014%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![OPPO Reno ACE](https://img.shields.io/badge/OPPO%20Reno%20ACE-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
 - 👋 Hi，这里是格尔斯，你也可以称呼为格
 - 👀 一位简单的自动化系学生，永远摆烂的简单人。
