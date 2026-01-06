@@ -4,7 +4,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows%2011%20Pro%20Beta-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![WSL2](https://img.shields.io/badge/WSL2%20Ubuntu%2024%2e04%2e3%20LTS-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
-[![Android Baklava 16](https://img.shields.io/badge/Android%20Baklava%2016-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://developer.android.google.cn/about/versions/16?hl)
+[![Android Baklava 16](https://img.shields.io/badge/Android%20Baklava%2016-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://developer.android.com/about/versions/16?hl)
 [![iPad OS](https://img.shields.io/badge/iPad%20OS-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/os/ipados/)
 
 # 📱 Devices in Use
