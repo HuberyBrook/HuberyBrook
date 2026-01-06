@@ -13,8 +13,8 @@
 
 ![Xiaomi 15](https://img.shields.io/badge/Xiaomi%2015%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Pad 5](https://img.shields.io/badge/Xiaomi%20Pad%205%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-[![Xiaomi Pad 5 Pro 12.4](https://img.shields.io/badge/Xiaomi%20Pad%205%20Pro%2012.4%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomipad5pro-124)
-[![Xiaomi Pad 6 Max 14](https://img.shields.io/badge/Xiaomi%20Pad%206%20Max%2014%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomi-pad-6-max)
+![Xiaomi Pad 5 Pro 12.4](https://img.shields.io/badge/Xiaomi%20Pad%205%20Pro%2012.4%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Pad 6 Max 14](https://img.shields.io/badge/Xiaomi%20Pad%206%20Max%2014%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 [![iPad Air 5](https://img.shields.io/badge/iPad%20Air%205-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/111887)
 
 
