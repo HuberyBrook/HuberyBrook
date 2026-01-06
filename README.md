@@ -18,6 +18,7 @@
 ![Xiaomi Pad 6 Max 14](https://img.shields.io/badge/Xiaomi%20Pad%206%20Max%2014%20-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 [![iPad Air 5](https://img.shields.io/badge/iPad%20Air%205-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/111887)
 [![iPhone X](https://img.shields.io/badge/iPhone%20X-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/111864)
+[![OnePlus ACE 3](https://img.shields.io/badge/OnePlus%20ACE%3-F5010C?style=for-the-badge&logo=OnePlus&logoColor=FFFFFF)](https://www.oneplus.com/cn/ace-3/specs)
 
 - 👋 Hi，这里是格尔斯，你也可以称呼为格
 - 👀 一位简单的自动化系学生，永远摆烂的简单人。
